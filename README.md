@@ -7,5 +7,5 @@ Today I Learned, often shortened as TIL
 - [Visual Studio](/vscode.md)
 - [CSS 플렉스박스 Flexbox](/flexbox.md)
 - [tutorial] CSS Flexbox [flexfrog](https://flexboxfroggy.com/)
-- [coding style](/styleguide.md)
+- [Coding Style](/styleguide.md)
 - [tutorial] Linux terminal [Bandit](https://overthewire.org/wargames/bandit/)
