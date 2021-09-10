@@ -1,7 +1,7 @@
 # TIL
 Today I Learned, often shortened as TIL
 
-- [Git](/Git.md)
+- [깃](/Git.md)
 - [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
 - [정규식](/regex.md)
 - [Visual Studio](/vscode.md)
