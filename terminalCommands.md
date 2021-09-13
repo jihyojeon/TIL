@@ -2,14 +2,14 @@
 - [Shell Command Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli/command-line-cheat-sheet-large01.png)
 
 ### Level 0 : SSH
-```shell
+```console
 ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 - ssh: command to use ssh
 - id@address -p portnumber
 
 ### Level 0 -> 1 : ls, cd, cat, file, du, find
-```Shell
+```console
 bandit0@bandit:~$ ls
 readme
 bandit0@bandit:~$ file readme 
@@ -34,13 +34,13 @@ bandit0@bandit:~$ find
 - du : print amount of disk usage
 - find : find files 
 - exit : disconnect ssh
-```Shell
+```console
 exit
 ssh bandit1@bandit.labs.overthewire.org -p 2220
 ```
 
 ### Level 1 -> 2 : dashed file
-```Shell
+```console
 bandit1@bandit:~$ find
 .
 ./.bashrc
@@ -56,7 +56,7 @@ Same to all files starting with dash!
 Use './-filename'
 
 ### Level 2 -> 3 : spaces in file name
-```Shell
+```console
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat spaces\ in\ this\ filename 
@@ -65,7 +65,7 @@ UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 Use eacape or just tab to auto-fill
 
 ### Level 3 -> 4 : hidden file
-```Shell
+```console
 bandit3@bandit:~$ ls
 inhere
 bandit3@bandit:~$ cd inhere/
@@ -76,7 +76,7 @@ pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 ```
 
 ### Level 4 -> 5 : human readable file
-```Shell
+```console
 bandit4@bandit:~$ ls
 inhere
 bandit4@bandit:~$ cd inhere
