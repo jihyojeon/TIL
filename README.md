@@ -8,4 +8,5 @@ Today I Learned, often shortened as TIL
 - [CSS 플렉스박스 Flexbox](/flexbox.md)
 - [tutorial] CSS Flexbox [flexfrog](https://flexboxfroggy.com/)
 - [Coding Style](/styleguide.md)
+- [Shell Commands](/terminalCommands.md)
 - [tutorial] Linux terminal [Bandit](https://overthewire.org/wargames/bandit/)
