@@ -1,4 +1,5 @@
-# [Bandit](https://overthewire.org/wargames/bandit/)
+# Terminal Commands Excercise
+## Source : [Bandit](https://overthewire.org/wargames/bandit/)
 - [Shell Command Cheat Sheet](https://www.git-tower.com/learn/cheat-sheets/cli/command-line-cheat-sheet-large01.png)
 
 ### Level 0 : SSH
@@ -97,4 +98,23 @@ bandit4@bandit:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
-### Level 5 -> 6 : 
+### Level 5 -> 6 : check file size and executability
+```console
+bandit5@bandit:~/inhere$ find . -size 1033c -not -executable
+./maybehere07/.file2
+bandit5@bandit:~/inhere$ file ./maybehere07/.file2
+./maybehere07/.file2: ASCII text, with very long lines
+bandit5@bandit:~/inhere$ cat ./maybehere07/.file2
+DXjZPULLxYr17uwoI01bNLQbtFemEgo7
+```
+[!] How to find it is human-readable?
+
+### Level 6 -> 7 : check file owner
+???
+[!] Not sure... Just read the file name... cheating
+```console
+bandit6@bandit:~$ cat /../var/lib/dpkg/info/bandit7.password
+HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+```
+
+### Level 7 -> 8 :
