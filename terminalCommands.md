@@ -145,4 +145,15 @@ The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 ```
 use -d or -decode
 
-### Level 11 -> 12 :
+### Level 11 -> 12 : rot 13
+```console
+bandit11@bandit:~$ cat data.txt 
+Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh
+bandit11@bandit:~$ cat data.txt | tr 'A-Za-z' 'N-ZA-Mn-za-m'
+The password is 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
+```
+Helpful Reading Material : [ROT13](https://en.wikipedia.org/wiki/ROT13#Emacs_and_Vim)
+
+### Level 12 -> 13 : Hex dump
+```console
+```
