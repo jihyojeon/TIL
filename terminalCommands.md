@@ -117,4 +117,32 @@ bandit6@bandit:~$ cat /../var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 ```
 
-### Level 7 -> 8 :
+### Level 7 -> 8 : find line with specific words in txt file
+```console
+bandit7@bandit:~$ grep "millionth" data.txt
+millionth       cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+```
+
+### Level 8 -> 9 : unique line
+```console
+bandit8@bandit:~$ cat data.txt | sort | uniq -u
+UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
+```
+
+### Level 9 -> 10 : 
+```console
+bandit9@bandit:~$ strings data.txt | grep "=="
+========== the*2i"4
+========== password
+Z)========== is
+&========== truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
+```
+
+### Level 10 -> 11 : decode file
+```console
+bandit10@bandit:~$ base64 -d data.txt
+The password is IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
+```
+use -d or -decode
+
+### Level 11 -> 12 :
