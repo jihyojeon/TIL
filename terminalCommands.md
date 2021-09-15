@@ -234,3 +234,5 @@ data9: ASCII text
 bandit12@bandit:/tmp/secttp$ cat data9
 The password is 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 ```
+
+### Level 13 -> 14 : SSH private key
