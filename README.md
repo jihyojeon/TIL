@@ -10,3 +10,6 @@ Today I Learned, often shortened as TIL
 - [Coding Style](/styleguide.md)
 - [Shell Commands](/terminalCommands.md)
 - [tutorial] Linux terminal [Bandit](https://overthewire.org/wargames/bandit/)
+
+## TODO
+- TypeScript
