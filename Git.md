@@ -141,6 +141,8 @@ $ git push <리모트이름 ex.origin> -d <브랜치이름>
 $ git push <리모트이름 ex.origin> --delete <브랜치이름>
 ```
 
+### Collaborate
+
 ## Checklist
 
 * 형상관리 시스템은 왜 나오게 되었을까요?
