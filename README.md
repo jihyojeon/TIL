@@ -3,7 +3,8 @@ Today I Learned, often shortened as TIL
 
 ### JavaScript
 - [JavaScript] Modern Javascript [ebook](https://learnjs.vlpt.us/)
-- [Javascript] [Callback](/callback.js)
+- [JavaScript] [Callback](/callback.js)
+- [JavaScript] Datatypes
 
 
 - [깃 Git](/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
