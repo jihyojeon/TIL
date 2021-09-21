@@ -13,3 +13,4 @@ Today I Learned, often shortened as TIL
 
 ## TODO
 - TypeScript
+- Functional Programming
