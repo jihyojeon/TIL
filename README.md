@@ -5,7 +5,9 @@ Today I Learned, often shortened as TIL
 - [JavaScript] Modern Javascript [ebook](https://learnjs.vlpt.us/)
 - [JavaScript] [Callback](/callback.js)
 - [JavaScript] [Datatypes](/datatype.js)
+- [JavaScript] [Operators](/operators.js)
 
+- Unit Testing: [Excerise code](/UnitTesting)
 
 - [깃 Git](/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
 - [Regex 정규식](/regex.md)
