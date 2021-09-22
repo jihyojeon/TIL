@@ -3,9 +3,9 @@ Today I Learned, often shortened as TIL
 
 ### JavaScript
 - [JavaScript] Modern Javascript [ebook](https://learnjs.vlpt.us/)
-- [JavaScript] [Callback](/callback.js)
-- [JavaScript] [Datatypes](/datatype.js)
-- [JavaScript] [Operators](/operators.js)
+- [JavaScript] [Callback](/JavaScript/callback.js) ref. [Ellie](https://www.youtube.com/watch?v=-cAPq25P-68)
+- [JavaScript] [Datatypes](/JavaScript/datatype.js) ref. [Ellie](https://www.youtube.com/watch?v=OCCpGh4ujb8)
+- [JavaScript] [Operators](/JavaScript/operators.js) ref. [Ellie](https://www.youtube.com/watch?v=YBjufjBaxHo)
 
 - Unit Testing: [Excerise code](/UnitTesting)
 
