@@ -21,3 +21,20 @@ const capitalizedGreeting = require('../unittesting.js');
 assert(capitalizedGreeting('Joe') === 'Hello JOE!');
 console.log('Passed');
 
+// Assertion Libraries
+// assert(foo !== 'bar');
+// expect(foo).to.not.equal('bar');
+// foo.should.not.equal('bar');
+
+// Testing Framework
+// 1. Jest
+// 2. Mocha
+// 3. Chai
+
+// TDD and BDD
+// 1. Test Driven Development
+// 
+// 2. Behavior Deiven Development
+//
+
+// Code coverage: how much my code covers tests

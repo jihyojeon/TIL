@@ -1,9 +1,4 @@
 // # Unit Testing
-// The purpose of this module is to learn:
-
-// * What automated tests are and why they’re important
-// * Assertion styles and most common JS tools for unit testing
-// * TDD and BDD
 
 // ### Automated tests
 // * Can be divided into unit tests, integration tests, end-to-end tests
@@ -53,3 +48,24 @@ function currencyFormatter (amount) {
 
 module.exports = capitalizedGreeting;
 
+
+// Assertion Libraries
+// assert(foo !== 'bar');
+// expect(foo).to.not.equal('bar');
+// foo.should.not.equal('bar');
+
+// Testing Framework
+// 1. Jest
+// 2. Mocha
+// 3. Chai
+
+// TDD and BDD
+// 1. Test Driven Development
+// - 무슨 테스트가 실패했나? most common use cases 먼저 보자. 그 다음에 엣지케이스
+// - 테스트 -> 코딩 -> 테스트 -> 코딩 ... 
+// - 테스트 케이스가 부족하면? 알지 못했던 에러가 나오고 이걸 커버하지 못 할 수도 있음.
+// 2. Behavior Deiven Development
+
+// Code coverage: how much my code covers tests
+// 자동화된 테스트 꼭 있어야함. 하나라도 있는게 없는 것보다 낫다.
+// 없으면? 디버깅에 너무 많은 시간을 소요할 수 있음.

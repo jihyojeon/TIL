@@ -7,8 +7,10 @@ Today I Learned, often shortened as TIL
 - [JavaScript] [Datatypes](/JavaScript/datatype.js) ref. [Ellie](https://www.youtube.com/watch?v=OCCpGh4ujb8)
 - [JavaScript] [Operators](/JavaScript/operators.js) ref. [Ellie](https://www.youtube.com/watch?v=YBjufjBaxHo)
 
+### Testing
 - Unit Testing: [Excerise code](/UnitTesting)
 
+### etc
 - [깃 Git](/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
 - [Regex 정규식](/regex.md)
 - [Visual Studio](/vscode.md)
