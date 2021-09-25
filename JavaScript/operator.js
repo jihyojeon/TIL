@@ -58,7 +58,7 @@ console.log(name1 === 'ellie' ? 'yes' : 'no');
 const name2 = 'jihyo';
 console.log(name2 === 'ellie' ? 'yes' : 'no');
 
-
+// Switch
 const brower = 'IE';
 switch (brower) {
   case 'IE':
@@ -72,3 +72,4 @@ switch (brower) {
     console.log('?');
     break;
 }
+
