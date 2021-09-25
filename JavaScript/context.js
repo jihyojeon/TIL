@@ -61,7 +61,8 @@ function howOld () {
 mark.howOld = sarah.howOld = howOld;
 sarah.brother.howOld(); // 23
 
-// Stand alone
+// Standalone
+// global obj or undefined if in 'strict mode'
 console.log('call-site check 3')
 
 function logContext () {
