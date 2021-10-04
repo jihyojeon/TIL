@@ -11,12 +11,12 @@ Today I Learned, often shortened as TIL
 - Unit Testing: [Excerise code](/UnitTesting)
 
 ### etc
-- [깃 Git](/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
-- [Regex 정규식](/regex.md)
-- [Visual Studio](/vscode.md)
-- [CSS 플렉스박스 Flexbox](/flexbox.md) | [tutorial] CSS Flexbox [flexfrog](https://flexboxfroggy.com/) | [Flexbox Zombies](https://mastery.games/flexboxzombies/?d=66a58001-f980-4df1-afde-44ee75ec0c41R)
-- [Coding Style](/styleguide.md)
-- [Shell Commands](/terminalCommands.md) | [tutorial] Linux terminal [Bandit](https://overthewire.org/wargames/bandit/)
+- [깃 Git](CS/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
+- [Regex 정규식](CS/regex.md)
+- [Visual Studio](CS/vscode.md)
+- [CSS 플렉스박스 Flexbox](CSS/flexbox.md) | [tutorial] CSS Flexbox [flexfrog](https://flexboxfroggy.com/) | [Flexbox Zombies](https://mastery.games/flexboxzombies/?d=66a58001-f980-4df1-afde-44ee75ec0c41R)
+- [Coding Style](JavaScript/styleguide.md)
+- [Shell Commands](CS/terminalCommands.md) | [tutorial] Linux terminal [Bandit](https://overthewire.org/wargames/bandit/)
 - [HTML] HTML Transform, transition [blog](https://codingbroker.tistory.com/54)
 - [React] Modern React [ebook](https://react.vlpt.us/)
 
