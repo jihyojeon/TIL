@@ -1,4 +1,12 @@
 # Pro-tips
+
+## Convers object to boolean
+```JavaScript
+Set.prototype.contains = function (value) {
+  return !!this[value];
+};
+```
+
 ## Ternary Operator
 ```JavaScript
 // ❌ Bad Code 💩
