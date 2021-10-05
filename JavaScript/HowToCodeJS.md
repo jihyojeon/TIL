@@ -1,6 +1,6 @@
 # Pro-tips
 
-## Convers object to boolean
+## Converts object to boolean
 ```JavaScript
 Set.prototype.contains = function (value) {
   return !!this[value];
