@@ -70,18 +70,6 @@ function hello () {
   console.log('hello');
 }
 ```
-- Put a space between a function name and its arguments when you declare it (not when you call it).
-```js
-// Bad
-function log(str) {
-  console.log(str);
-}
-
-// Good
-function log (str) {
-  console.log(str);
-}
-```
 - Put a space before blocks, and around keywords.
 ```js
 // Bad
