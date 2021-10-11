@@ -7,7 +7,7 @@
 
 ## MVC
 - [참고](https://jaeseongdev.github.io/development/2021/02/21/MVC_%ED%8C%A8%ED%84%B4/)
-- 유지보수를 쉽게 해보자. -> 패턴의 등장.
+- 유지보수(maintenance)를 쉽게 해보자. -> 패턴의 등장.
 - 패턴들은? 최소한의 코만을 수정해서 기능을 변경할 수 있음: >>변하는 것과 변하지 않는 것을 분리!<<
 - 웹 비유
   1. user -> controller: google 'coding' to controller
@@ -43,3 +43,9 @@
 - Provides chainable middleware in the form of app.use(), which accepts handler callbacks that get passed the request and response object of each HTTP transaction, together with a next() callback to move to the next middleware in the chain.
 - Augments Node’s req and res objects.
 - Offers a Router class to easily create routes.
+
+## - 
+데브 / 배포에 필요한 패키지들 분리.
+```
+npm i nodemon --save-dev 
+```
