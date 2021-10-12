@@ -7,6 +7,9 @@ Today I Learned, often shortened as TIL
 - [JavaScript] [Datatypes](/JavaScript/datatype.js) ref. [Ellie](https://www.youtube.com/watch?v=OCCpGh4ujb8)
 - [JavaScript] [Operators](/JavaScript/operators.js) ref. [Ellie](https://www.youtube.com/watch?v=YBjufjBaxHo)
 
+### DataBase
+- [SQL] Structuerd Query Language [SQL tutorial](https://sqlbolt.com/)
+
 ### Testing
 - Unit Testing: [Excerise code](/UnitTesting)
 
