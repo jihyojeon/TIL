@@ -27,7 +27,7 @@ async function getBanana() {
 }
 
 async function pickFruits() {
-  const applePromise = getApple();
+  const applePromise = getApple(); //프로미스를 만드는 순간 실행됨.
   const bananaPromise = getBanana();
   const apple = await applePromise;
   const banana = await bananaPromise;
@@ -36,8 +36,12 @@ async function pickFruits() {
 
 pickFruits().then(console.log);
 
+// 하지만 위는 좀 더럽다...?
+
 // 3. useful APIs ✨
 function pickAllFruits() {
+  // 프로미스에 있는 all!!!
+  // 모든 프로미스를 병렬적으로 사용한다.
   return Promise.all([getApple(), getBanana()]).then(fruits =>
     fruits.join(' + ')
   );

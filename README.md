@@ -1,19 +1,24 @@
 # TIL
+
 Today I Learned, often shortened as TIL
 
 ### JavaScript
+
 - [JavaScript] Modern Javascript [ebook](https://learnjs.vlpt.us/)
 - [JavaScript] [Callback](/JavaScript/callback.js) ref. [Ellie](https://www.youtube.com/watch?v=-cAPq25P-68)
 - [JavaScript] [Datatypes](/JavaScript/datatype.js) ref. [Ellie](https://www.youtube.com/watch?v=OCCpGh4ujb8)
 - [JavaScript] [Operators](/JavaScript/operators.js) ref. [Ellie](https://www.youtube.com/watch?v=YBjufjBaxHo)
 
 ### DataBase
+
 - [SQL] Structuerd Query Language [SQL tutorial](https://sqlbolt.com/)
 
 ### Testing
+
 - Unit Testing: [Excerise code](/UnitTesting)
 
 ### etc
+
 - [깃 Git](CS/Git.md) | [tutorial] Git [Git Branching](https://learngitbranching.js.org/?locale=ko)
 - [Regex 정규식](CS/regex.md)
 - [Visual Studio](CS/vscode.md)
@@ -23,7 +28,7 @@ Today I Learned, often shortened as TIL
 - [HTML] HTML Transform, transition [blog](https://codingbroker.tistory.com/54)
 - [React] Modern React [ebook](https://react.vlpt.us/)
 
-
 ## TODO
+
 - TypeScript
-- Functional Programming
+- JS currying ?

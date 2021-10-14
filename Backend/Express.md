@@ -15,7 +15,6 @@
   3. controller -> view: transfer response to view
   4. view -> user: show reponse with UI
 
-
 - It means “model-view-controller”.
 - It’s a web server design pattern that aims at improving modularity and separation of concerns.
 - Each request is passed to its corresponding controller, which is like the “traffic director” of the required operations for that request.
