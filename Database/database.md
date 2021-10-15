@@ -33,3 +33,7 @@
 - The main families of non-relational databases are: document, key-value, and graph.
 - They are more convenient to handle unstructured data or changing application requirements.
 - On the other hand, your application logic can make less assumptions on the data available, and efficient queries need to be built ad-hoc.
+- MongoDB
+- Redis
+- Neo4j
+  - native graph database
