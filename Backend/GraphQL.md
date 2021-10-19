@@ -41,3 +41,19 @@ getTeam(obj, { id }, context, info) {
   return Team.find({_id: id})
 }
 ```
+
+## GraphQL의 장점
+
+1. 필요한 정보들만 선택하여 받아올 수 있음
+
+- Overfetching 문제 해결
+- 데이터 전송량 감소
+
+2. 여러 계층의 정보들을 한 번에 받아올 수 있음
+
+- Underfetching 문제 해결
+- 요청 횟수 감소
+
+3. 하나의 endpoint에서 모든 요청을 처리
+
+- 하나의 URI에서 POST로 모든 요청 관리
