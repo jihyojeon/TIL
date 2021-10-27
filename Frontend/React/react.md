@@ -24,3 +24,15 @@ You can access the state in a class component with this.state.<propertyName> and
 
 - React provides several built-in JSX attributes that allow you to handle events by assigning a callback function to them (e.g. onChange for an input, or onClick for a button).
 - You can also utilize events to pass data up the component tree from child to parent, by providing a handler function from the parent and assigning it via props on the desired event in the child.
+
+## Hook
+
+```JavaScript
+// useState
+const [counter, setCounter] = useState(0);
+// useEffect
+useEffect(() => {
+  console.log(counter)
+  return () => // Teardown logic (executes after the first render and anytime the counter updates)
+}, [counter]);
+```
