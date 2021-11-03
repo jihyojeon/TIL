@@ -26,3 +26,29 @@
     });
   }
 }
+
+{
+  // Optional Parameter
+  function printName(first: string, last?: string) {
+    console.log(first);
+    last ? console.log(last) : null;
+  }
+
+  printName('Jihyo', 'Jeon');
+  printName('Jihyo');
+
+  // Default Parmaneter
+  function printMsg(msg: string = 'default msg') {
+    console.log(msg);
+  }
+
+  printMsg();
+
+  // Rest Parameter
+  function addNumbers(...numbers: number[]): number {
+    return numbers.reduce((a, b) => a + b);
+  }
+
+  console.log(addNumbers(1, 2));
+  console.log(addNumbers(1, 2, 3));
+}
