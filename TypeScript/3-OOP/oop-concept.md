@@ -1,0 +1,6 @@
+OOP 4 rules
+
+1. Encapsulation
+2. Abstraction
+3. Inheritance
+4. Polymorphism
