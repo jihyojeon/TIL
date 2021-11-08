@@ -1,4 +1,4 @@
-# OWASP 2021 Top Ten
+# OWASP 2021 Top Ten 웹 보안 취약점
 
 [MORE](https://nhj12311.tistory.com/524)
 
