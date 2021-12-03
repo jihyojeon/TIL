@@ -14,9 +14,6 @@
     clean(): void;
   }
 
-  // public <- default / can access from outside
-  // private <- no one can access
-  // protected <- child class can access
   class CoffeeMachine implements CoffeeMaker, CommercialCoffeeMaker {
     private static BEANS_GRAMM_PER_SHOT: number = 10;
     coffeeBeans: number = 0;
