@@ -28,7 +28,10 @@ Today I Learned, often shortened as TIL
 - [HTML] HTML Transform, transition [blog](https://codingbroker.tistory.com/54)
 - [React] Modern React [ebook](https://react.vlpt.us/)
 
+### Others
+- [Introduction to FrontEnd](https://github.com/JIHYO-JEON/Introduction-to-FE)
+
 ## TODO
 
-- TypeScript
+- TypeScript(~ing)
 - JS currying ?
